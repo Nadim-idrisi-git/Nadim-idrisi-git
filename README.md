@@ -55,13 +55,3 @@
 </p>
 
 <br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadim-idrisi-git&show_icons=true&locale=en&theme=tokyonight" alt="Nadim Idrisi GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nadim-idrisi-git&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nadim Idrisi Top Languages" />
-</p>
